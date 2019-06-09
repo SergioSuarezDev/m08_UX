@@ -1,3 +1,3 @@
 # m08_UX
 
-Prática módulo 08 - UX. Sergio Suárez Gil
+Práctica módulo 08 - UX. Sergio Suárez Gil
